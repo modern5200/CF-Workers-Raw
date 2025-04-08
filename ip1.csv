@@ -1,4 +1,4 @@
-IP地址,端口,TLS,数据中心,地区,城市,网络延迟,下载速度
+IP鍦板潃,绔彛,TLS,鏁版嵁涓績,鍦板尯,鍩庡競,缃戠粶寤惰繜,涓嬭浇閫熷害
 132.145.127.203,8443,true,NRT,Asia Pacific,Tokyo,85 ms,5012 kB/s
 138.2.235.224,8443,true,SJC,North America,San Jose,214 ms,3767 kB/s
 129.151.237.155,8443,true,MRS,Europe,Marseille,275 ms,3053 kB/s
